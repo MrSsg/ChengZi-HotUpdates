@@ -1,7 +1,8 @@
 {
-  "revision": 4,
-  "version": "2026.10.01.4",
-  "minVersionCode": 35,
+  "revision": 5,
+  "version": "2026.10.10.5",
+  "minVersionCode": 36,
   "bridgeVersion": 1,
-  "notes": "加深返回卡片阴影；将阴影圆角固定缓存，消除返回时额外逐帧重绘，保留自动热更新与国庆 Banner。"
+  "contentModeVersion": 1,
+  "notes": "橙子短剧双模式界面：默认红果、隐藏黄果；设置页隐藏头像搜索；保留系统预测返回动画，历史收藏按来源隔离。"
 }
