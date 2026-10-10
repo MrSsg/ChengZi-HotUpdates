@@ -1,8 +1,8 @@
 {
-  "revision": 12,
-  "version": "2026.10.10.12",
+  "revision": 13,
+  "version": "2026.10.10.13",
   "minVersionCode": 42,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "修复旧卡片样式覆盖续播按钮颜色的问题，续播文字和图标显示白色，剧名恢复正常文字颜色。"
+  "notes": "续播按钮使用与首页分类一致的浅奶黄色背景、细边框和深色文字；深色模式同步分类配色。"
 }
