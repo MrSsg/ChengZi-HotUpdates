@@ -1,8 +1,8 @@
 {
-  "revision": 9,
-  "version": "2026.10.10.9",
-  "minVersionCode": 40,
+  "revision": 10,
+  "version": "2026.10.10.10",
+  "minVersionCode": 42,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "首页精选推荐与热门漫剧改为两行横向浏览，保留更多入口及原有卡片样式；黄果首页同步使用两行布局。"
+  "notes": "首页增加继续观看：展示最近剧集及播放位置，直接续播，并提供全部历史入口；红果与黄果各自读取独立历史。"
 }
