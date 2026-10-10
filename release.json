@@ -1,8 +1,8 @@
 {
-  "revision": 6,
-  "version": "2026.10.10.6",
-  "minVersionCode": 36,
+  "revision": 7,
+  "version": "2026.10.10.7",
+  "minVersionCode": 39,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "去掉红果与黄果搜索输入框聚焦时的黄色边框，保留正常输入、搜索和其他控件的聚焦提示。"
+  "notes": "红果大类标签：短剧与漫剧分组，沿用黄果全部类型页与分类列表布局，支持分页下滑、去重和重试。"
 }
