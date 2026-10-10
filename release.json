@@ -1,8 +1,8 @@
 {
-  "revision": 10,
-  "version": "2026.10.10.10",
+  "revision": 11,
+  "version": "2026.10.10.11",
   "minVersionCode": 42,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "首页增加继续观看：展示最近剧集及播放位置，直接续播，并提供全部历史入口；红果与黄果各自读取独立历史。"
+  "notes": "续播按钮匹配效果图：橙金底、白色图标与文字；继续观看卡片高度缩减约18%，整体更紧凑。"
 }
