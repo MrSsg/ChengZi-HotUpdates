@@ -1,8 +1,8 @@
 {
-  "revision": 11,
-  "version": "2026.10.10.11",
+  "revision": 12,
+  "version": "2026.10.10.12",
   "minVersionCode": 42,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "续播按钮匹配效果图：橙金底、白色图标与文字；继续观看卡片高度缩减约18%，整体更紧凑。"
+  "notes": "修复旧卡片样式覆盖续播按钮颜色的问题，续播文字和图标显示白色，剧名恢复正常文字颜色。"
 }
