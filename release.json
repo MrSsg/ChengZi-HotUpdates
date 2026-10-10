@@ -1,8 +1,8 @@
 {
-  "revision": 8,
-  "version": "2026.10.10.8",
+  "revision": 9,
+  "version": "2026.10.10.9",
   "minVersionCode": 40,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "修复红果短剧与漫剧搜索；账号头像及信息先读本地缓存，后台静默更新并保留当前页面状态。"
+  "notes": "首页精选推荐与热门漫剧改为两行横向浏览，保留更多入口及原有卡片样式；黄果首页同步使用两行布局。"
 }
