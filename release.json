@@ -1,8 +1,8 @@
 {
-  "revision": 17,
-  "version": "2026.10.16.17",
+  "revision": 18,
+  "version": "2026.10.16.18",
   "minVersionCode": 50,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "旧版启动时提醒下载 v0.3.16，支持复制新版 APK 下载链接；新版用户不再显示迁移提醒。"
+  "notes": "新版已修复无法播放、封面无法获取的问题，请下载安装。"
 }
