@@ -1,8 +1,8 @@
 {
-  "revision": 18,
-  "version": "2026.10.16.18",
+  "revision": 19,
+  "version": "2026.10.16.19",
   "minVersionCode": 50,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "新版已修复无法播放、封面无法获取的问题，请下载安装。"
+  "notes": "首页新增账号注册暂停公告，面向 v0.3.16 及以上版本，展示至北京时间 10 月 21 日结束。"
 }
