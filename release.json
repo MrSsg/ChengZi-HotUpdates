@@ -1,8 +1,8 @@
 {
-  "revision": 13,
-  "version": "2026.10.10.13",
-  "minVersionCode": 42,
+  "revision": 17,
+  "version": "2026.10.16.17",
+  "minVersionCode": 50,
   "bridgeVersion": 1,
   "contentModeVersion": 1,
-  "notes": "续播按钮使用与首页分类一致的浅奶黄色背景、细边框和深色文字；深色模式同步分类配色。"
+  "notes": "旧版启动时提醒下载 v0.3.16，支持复制新版 APK 下载链接；新版用户不再显示迁移提醒。"
 }
