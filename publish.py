@@ -1,4 +1,4 @@
-"""Build, sign and optionally publish an immutable HuangGuo hot-update release."""
+"""Build, sign and optionally publish an immutable ChengZi hot-update release."""
 import argparse
 import base64
 import datetime as dt
@@ -12,7 +12,7 @@ from cryptography.hazmat.primitives import hashes, serialization
 from cryptography.hazmat.primitives.asymmetric import ec
 
 ROOT = Path(__file__).resolve().parent
-REPOSITORY = "MrSsg/HuangguoAPP-HotUpdates"
+REPOSITORY = "MrSsg/ChengZi-HotUpdates"
 EXCLUDED = {"site-default.json", "hot-update-public.pem", "hot-runtime.js", "runtime.js"}
 EXTENSIONS = {".html", ".css", ".js", ".svg", ".png", ".jpg", ".jpeg", ".webp", ".gif", ".json", ".woff", ".woff2", ".txt"}
 
